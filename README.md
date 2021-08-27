@@ -1,7 +1,7 @@
 # Sign Language Digit Recognition In Real Time
 
 # Use the following environment as python interpreter
-...
+https://github.com/Iulian277/tf-keras-gpu-env
 
 # Run the scripts
 cd src
