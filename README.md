@@ -1,6 +1,7 @@
 # Sign Language Digit Recognition In Real Time
 
 # Use the following environment as python interpreter
+
 ...
 
 # Run the scripts
