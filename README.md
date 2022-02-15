@@ -6,15 +6,10 @@ https://mega.nz/folder/yhgwkb5B#BYcasb_anT1RTSWk_ESuDQ
 
 # Run the scripts
 
-    cd src
-
-Run a low-level model:
-
-    py predict_live.py
-
-Run a better model:
-
-    py predict_live_hand_tracking_bg_rem.py
+```console
+$ cd src
+$ py predict_live_hand_tracking_bg_rem.py
+```
 
 # How to use it
 
