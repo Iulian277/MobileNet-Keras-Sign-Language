@@ -13,4 +13,4 @@ $ py predict_live_hand_tracking_bg_rem.py
 
 ## How to use it
 
-Wait for video capture to open and then you reproduce the digits with your hand (you can check the 'data' folder for examples)
+Wait for the video capture to open and then you can reproduce the digits with your hand (check the `data` directory for examples)
