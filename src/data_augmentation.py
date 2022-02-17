@@ -40,10 +40,4 @@ for i in range(10):
         save_path = f'../data/Sign-Language-Digits-Dataset/train/{i}'
         for x, val in zip(datagen.flow(image, save_to_dir = save_path, save_prefix = 'aug-image-', save_format = 'PNG'), range(10)):
             pass
-
-
-
-
-
-
-
+          
